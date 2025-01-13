@@ -8,7 +8,6 @@ tags:
   - Web Security
 ---
 
-# Intigriti January XSS Challenge Writeup
 
 ## Introduction
 
