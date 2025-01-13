@@ -18,7 +18,7 @@ Challenge Link: https://challenge-0125.intigriti.io/
 
 ## Initial Reconnaissance
 
-{{< video autoplay="true" loop="true" src="/recon.mp4" >}}
+{{< video autoplay="true" loop="true" src="https://abhinavkuamr.github.io/securityBlogs/recon.mp4" >}}
 
 The website presented a clean, minimalist interface with a simple functionality: users input their name into a text field, and the site displays a "Welcome [name]" message. Two key observations from initial testing:
 
@@ -206,7 +206,7 @@ Let's analyze how this payload bypasses the protections:
 
 Here's the successful exploitation:
 
-![XSS alert pop up](/xss1st.png)
+![XSS alert pop up](https://abhinavkuamr.github.io/securityBlogs/xss1st.png)
 
 ### Key Takeaways
 
