@@ -1,0 +1,8 @@
+<video 
+    {{ if .Get "autoplay" }}autoplay{{ end }}
+    {{ if .Get "loop" }}loop{{ end }}
+    controls
+    width="600">
+    <source src="{{ .Get "src" }}" type="video/mp4">
+    Your browser does not support the video tag.
+</video>

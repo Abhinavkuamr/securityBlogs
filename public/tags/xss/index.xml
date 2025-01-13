@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XSS on illegalFreedom</title>
+    <link>//localhost:1313/tags/xss/</link>
+    <description>Recent content in XSS on illegalFreedom</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/xss/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intigriti January 2025 - XSS Challenge</title>
+      <link>//localhost:1313/post/intigriti-january-challenge-2025---xss-challenge/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/intigriti-january-challenge-2025---xss-challenge/</guid>
+      <description>&lt;h1 id=&#34;intigriti-january-xss-challenge-writeup&#34;&gt;Intigriti January XSS Challenge Writeup&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This month&amp;rsquo;s Intigriti challenge presented us with a classic XSS objective - popping an alert box! Let&amp;rsquo;s dive into how I approached and analyzed this challenge.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

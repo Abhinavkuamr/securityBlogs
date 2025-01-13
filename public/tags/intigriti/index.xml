@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intigriti on Terminal</title>
+    <link>//localhost:1313/tags/intigriti/</link>
+    <description>Recent content in Intigriti on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/intigriti/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intigriti January Challenge by Godson</title>
+      <link>//localhost:1313/posts/intigritis-january-challenge/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/intigritis-january-challenge/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

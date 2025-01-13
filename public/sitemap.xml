@@ -2,24 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/first-post/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/intigriti-january-challenge-2025---xss-challenge/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tag1/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/post/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tag2/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/web-security/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <loc>//localhost:1313/tags/writeup/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/tags/xss/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
