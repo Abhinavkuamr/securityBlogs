@@ -1,4 +1,4 @@
-baseURL ="https://abhinavkuamr.github.io/securityBlogs/"
+baseURL ="https://abhinavkuamr.github.io/"
 languageCode = "en-us"
 title = "illegalFreedom"
 theme = "beautifulhugo"
