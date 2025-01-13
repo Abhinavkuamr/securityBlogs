@@ -67,7 +67,7 @@ window.onload = function () {
 };
 ```
 
-The `checkQueryParam` function caught our attention as it handled our input:
+The `checkQueryParam` function caught my attention as it handled our input:
 
 ```javascript
 function checkQueryParam() {
@@ -89,7 +89,7 @@ The potential XSS sink was clearly visible:
 modalText.innerHTML = `Welcome, ${text}!`;
 ```
 
-This indicated our payload would be placed in an HTML context, suggesting we'd need angle brackets for exploitation. However, several security controls were in place:
+This indicated my payload would be placed in an HTML context, suggesting we'd need angle brackets for exploitation. However, several security controls were in place:
 
 1. The conditional statement `if (text && XSS() === false)`
 2. The `getParameterByName()` function's parsing logic
@@ -137,9 +137,6 @@ Key aspects of this function:
 4. Decodes the captured value and replaces `+` with spaces
 
 This parsing logic is particularly interesting because it shows how the application processes our input before it reaches the vulnerable `innerHTML` sink.
-
-Then it returns the decoded string and replaces any `+` with a space
-`return decodeURIComponent(results[2].replace(/\+/g, " "));`
 
 
 
