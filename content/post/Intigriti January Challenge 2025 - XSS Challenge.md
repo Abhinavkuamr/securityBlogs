@@ -1,4 +1,5 @@
 ---
+title: "Intigriti January 2025 - XSS Challenge"
 date: 2025-01-10
 draft: false
 tags:
@@ -6,8 +7,6 @@ tags:
   - Writeup
   - Web Security
 ---
-
-
 ## Introduction
 
 This month's Intigriti challenge presented us with a classic XSS objective - popping an alert box! Let's dive into how I approached and analyzed this challenge.
