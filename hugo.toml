@@ -1,6 +1,6 @@
 baseURL ="https://abhinavkuamr.github.io/securityBlogs/"
 languageCode = "en-us"
-title = "Client Side Security"
+title = "XSS blogs"
 theme = "beautifulhugo"
 summaryLength = 1
 
