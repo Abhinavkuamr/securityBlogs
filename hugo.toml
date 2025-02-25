@@ -1,6 +1,6 @@
 baseURL ="https://abhinavkuamr.github.io/securityBlogs/"
 languageCode = "en-us"
-title = "illegalFreedom"
+title = "Client Side Security"
 theme = "beautifulhugo"
 summaryLength = 1
 
